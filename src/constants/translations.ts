@@ -45,6 +45,12 @@ export const translations = {
           description: "Automação de extração e processamento de dados de saúde, envolvendo Web Scraping e transformação de dados em escala.",
           tech: ["Python", "SQL", "Data Ingestion", "Web Scraping"],
           link: "https://github.com/VinPaulo",
+        },
+        {
+          title: "P.Wallet — Gestão Financeira",
+          description: "Sistema Full-Stack de gerenciamento financeiro com API RESTful em Java 17 e Spring Boot 3, interface moderna em React 19 com TypeScript, PostgreSQL e containerização com Docker Compose.",
+          tech: ["Java", "Spring Boot", "React", "TypeScript", "PostgreSQL", "Docker"],
+          link: "https://github.com/VinPaulo/ProjetoLabdeProgramacao",
         }
       ]
     },
@@ -134,6 +140,12 @@ export const translations = {
           description: "Automation of health data extraction and processing, involving Web Scraping and data scaling transformation.",
           tech: ["Python", "SQL", "Data Ingestion", "Web Scraping"],
           link: "https://github.com/VinPaulo",
+        },
+        {
+          title: "P.Wallet — Financial Manager",
+          description: "Full-Stack financial management system with a RESTful API in Java 17 and Spring Boot 3, a modern React 19 interface with TypeScript, PostgreSQL and Docker Compose containerization.",
+          tech: ["Java", "Spring Boot", "React", "TypeScript", "PostgreSQL", "Docker"],
+          link: "https://github.com/VinPaulo/ProjetoLabdeProgramacao",
         }
       ]
     },
