@@ -7,14 +7,14 @@ export const translations = {
     },
     hero: {
       greeting: "Olá, eu sou",
-      role: "Estudante de Sistemas de Informação na UFV. Em busca de minha primeira experiência no mercado de trabalho.",
+      role: "Sou estudante de Sistemas de Informação na UFV e busco uma oportunidade onde eu possa aplicar o que venho estudando em um ambiente real de produção.",
       viewProjects: "VER PROJETOS",
       downloadCV: "DOWNLOAD CV",
     },
     about: {
       titlePart1: "Minha",
       titlePart2: "Jornada",
-      paragraph1: "Atualmente no 5º semestre de Sistemas de Informação na <span class='text-white'>UFV</span>, participando da empresa júnior de Sistemas - <span class='text-blue-500'>InfoAlto</span> e desenvolvendo uma pesquisa sobre Sistemas Distribuídos, com foco em performance e escalabilidade.",
+      paragraph1: "Atualmente no 5º semestre de Sistemas de Informação na <span class='text-white'>UFV</span>, participando da empresa júnior de Sistemas - <span class='text-blue-500'>InfoAlto</span> e desenvolvendo uma pesquisa sobre Deep Learning.",
       paragraph2: "Com background técnico em eletrônica pelo <span className=\"text-white\">CEFET-MG</span>, aplico conceitos de hardware em arquiteturas de software distribuídas e robustas.",
     },
     projects: {
